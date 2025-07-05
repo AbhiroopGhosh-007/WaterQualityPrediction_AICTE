@@ -1,2 +1,7 @@
 joblib
 gdown
+pandas==2.2.2
+numpy==1.26.4
+joblib==1.4.2
+scikit-learn==1.4.1
+streamlit==1.33.0
